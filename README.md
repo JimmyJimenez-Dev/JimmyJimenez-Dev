@@ -8,7 +8,7 @@
 
 **AI Automation Specialist** with a background as a field technician. I build automations with **n8n, Python and Claude (Anthropic API)** that solve real operational problems, the kind I dealt with for years on the job.
 
-Today I solve problems the way a specialist does: I understand the process, automate it, and make it reliable. I'm not an engineer yet, but I'm on that path, learning every week to get there.
+Today I solve problems the way a specialist does: I understand the process, automate it, and make it reliable. I'm not an IA engineer yet, but I'm on that path, learning every week to get there.
 
 ### My background
 - 🔧 Trained in **HVAC and refrigeration** in Ecuador, and worked as an HVAC technician on residential systems.
@@ -22,7 +22,7 @@ Today I solve problems the way a specialist does: I understand the process, auto
 | [ai-automation-portfolio](https://github.com/JimmyJimenez-Dev/ai-automation-portfolio) | AI automations for small businesses: email triage, HVAC service requests with safety rules, and invoice data extraction with validation and tests |
 | [alura-starter-projects](https://github.com/JimmyJimenez-Dev/alura-starter-projects) | My first projects (HTML, CSS, JavaScript and Java), created in 2024 and refactored in 2026 |
 
-### Why some repos are in Spanish and others in English
+### Why some repos are in Spanish and others in English ?
 I'm from Ecuador, and I started learning to code **in Spanish** with Oracle Next Education + Alura Latam, so my first projects are documented in Spanish. After moving to the US I kept learning **in English**, and my newer work is in English. My repos show that path. I work comfortably in both languages.
 
 ### Tech stack
